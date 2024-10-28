@@ -1,5 +1,12 @@
+.hover-button {
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Initial background color */
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
 
-button:hover {
-  background-color: orangered; 
-  color: white; 
+.hover-button:hover {
+    background-color: #45a049; /* Background color on hover */
 }
