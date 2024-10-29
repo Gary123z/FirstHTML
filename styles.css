@@ -1,7 +1,7 @@
 td button {
     height: 150px;
     width: 640px;
-    background-color: #2454f6;
+    background-color: #00ffc5;
     color: white;
     border: none;
     cursor: pointer;
@@ -12,7 +12,7 @@ td button {
 
 
 td button:hover {
-    background-color: #003aff; 
+    background-color: #00ffc5; 
     transform: scale(1.05); 
     color: yellow; 
 }
