@@ -1,7 +1,7 @@
 td button {
     height: 150px;
     width: 640px;
-    background-color: #4CAF50; /* Default background color */
+    background-color: #2454f6; /* Default background color */
     color: white;
     border: none;
     cursor: pointer;
@@ -15,4 +15,7 @@ td button:hover {
     background-color: #45a049; /* Background color on hover */
     transform: scale(1.05); /* Slightly increase size on hover */
     color: yellow; /* Text color on hover */
+}
+body {
+  background-color: lightblue;
 }
