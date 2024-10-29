@@ -1,12 +1,18 @@
-.hover-button {
-    padding: 10px 20px;
-    background-color: #4CAF50; /* Initial background color */
+td button {
+    height: 150px;
+    width: 640px;
+    background-color: #4CAF50; /* Default background color */
     color: white;
     border: none;
     cursor: pointer;
-    transition: background-color 0.3s ease; /* Smooth transition */
+    font-size: 16px;
+    font-weight: bold;
+    transition: 0.3s; /* Smooth transition for hover effects */
 }
 
-.hover-button:hover {
+/* Hover effect for <button> elements within <td> */
+td button:hover {
     background-color: #45a049; /* Background color on hover */
+    transform: scale(1.05); /* Slightly increase size on hover */
+    color: yellow; /* Text color on hover */
 }
