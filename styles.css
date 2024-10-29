@@ -12,10 +12,10 @@ td button {
 
 
 td button:hover {
-    background-color: #00ffc5; 
+    background-color: #ff0000; 
     transform: scale(1.05); 
     color: yellow; 
 }
 h1 {
-  font-size: 200px;
+  font-size: 100px;
 }
