@@ -15,8 +15,10 @@ td button:hover {
     background-color: #ff0000; 
     transform: scale(1.05); 
     color: yellow; 
+h1 { 
+    font-size: 75px;  
 }
-h1 {
+h2 {
   font-size: 50px;
 }
 
