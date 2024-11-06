@@ -17,5 +17,9 @@ td button:hover {
     color: yellow; 
 }
 h1 {
-  font-size: 100px;
+  font-size: 50px;
+}
+
+ol li {
+   font-size: 25px;
 }
