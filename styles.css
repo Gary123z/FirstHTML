@@ -31,3 +31,7 @@ body {
     table {
         background-color: #4CBB17;
     }
+<style>
+    td { 
+    text-allign: center;
+    }
